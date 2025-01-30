@@ -4,6 +4,8 @@
 This project analyzes Kickstarter projects to determine factors that contribute to their success and implements machine learning models to predict project success. It covers data cleaning, exploratory data analysis (EDA), funding trends, time-based patterns, category performance, country-based insights, and predictive modeling.
 
 ---
+## 📌 Data Source
+Kaggle Data -> https://www.kaggle.com/datasets/kemical/kickstarter-projects
 
 ## 📂 Steps Completed in This Project
 
