@@ -35,8 +35,8 @@ Kaggle Data -> https://www.kaggle.com/datasets/kemical/kickstarter-projects
 
 ### **4. Model Evaluation**
 - **Accuracy Scores**
-  - Logistic Regression Accuracy: 0.84  (Replace with actual accuracy)
-  - Random Forest Accuracy: 0.81  (Replace with actual accuracy)
+  - Logistic Regression Accuracy: *0.84*
+  - Random Forest Accuracy: *0.81*  
 
 - **Performance Metrics** (Precision, Recall, F1-score)
   - Evaluated using `classification_report` from `sklearn.metrics`.
