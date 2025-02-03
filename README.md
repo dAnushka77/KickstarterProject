@@ -24,7 +24,7 @@ Kaggle Data -> https://www.kaggle.com/datasets/kemical/kickstarter-projects
 - **Country-Based Analysis:** Analyzed the distribution of projects by country and success rates.
 
 ### **3. Machine Learning Prediction**
-#### **Goal:** Predict whether a Kickstarter project will succeed based on relevant features.
+#### **Goal:** To predict whether a Kickstarter project will succeed based on relevant features.
 - Selected features: `goal`, `backers`, `launch_month`, `launch_day`, `project_duration`
 - Encoded categorical features and mapped `state` column correctly (`successful = 1`, `failed = 0`)
 - Applied stratified train-test split to maintain class balance.
