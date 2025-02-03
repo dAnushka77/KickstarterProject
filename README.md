@@ -69,4 +69,3 @@ Kaggle Data -> https://www.kaggle.com/datasets/kemical/kickstarter-projects
 - Implement deep learning techniques for enhanced prediction.
 - Deploy the model as a web app for real-time project success predictions.
 
----
